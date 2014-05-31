@@ -1,0 +1,3 @@
+# Rails tutorial by [Michael Hartl](http://michaelhart.com/)
+
+Just a sample app following tutorial...
